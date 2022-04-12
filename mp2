@@ -1,4 +1,8 @@
 -host
    name :praveeen
    name :jaya
+-Task :
+   name : tomcat 
+    Name : apache cd www/var/html - index.html
+
  
